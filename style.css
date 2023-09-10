@@ -1,0 +1,22 @@
+.filha{
+    background-color: #90ee90;
+    width: 50%;
+    height: 50%;
+}
+.filhaB{
+    color:white;
+    background-color: red;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.filhoC{
+    width: 50%;
+     height: 50vh;
+      background-color: rgb(173 216 230);
+}
+.filhoD{
+    width: 75vw;
+     height: 50%;
+      background-color: rgb(255 0 0);
+}
